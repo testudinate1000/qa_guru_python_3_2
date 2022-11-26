@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+pytest==7.2
+allure-pytest
+=======
 pytest==7.2
 allure-pytest
 selene==2.0.0b16
